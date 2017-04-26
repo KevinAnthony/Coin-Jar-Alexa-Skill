@@ -1,0 +1,83 @@
+{
+  "intents": [
+    {
+      "intent": "AddCoins",
+      "slots": [
+        {
+          "name": "Count",
+          "type": "AMAZON.NUMBER"
+        },
+        {
+          "name": "Type",
+          "type": "List_Of_Coins"
+        }
+      ]
+    },
+    {
+      "intent": "RemoveCoins",
+      "slots": [
+        {
+          "name": "Count",
+          "type": "AMAZON.NUMBER"
+        },
+        {
+          "name": "Type",
+          "type": "List_Of_Coins"
+        }
+      ]
+    },
+    {
+      "intent": "RollCoins",
+      "slots": [
+        {
+          "name": "Count",
+          "type": "AMAZON.NUMBER"
+        },
+        {
+          "name": "Type",
+          "type": "List_Of_Coins"
+        }
+      ]
+    },
+    {
+      "intent": "CashRolls",
+      "slots": [
+        {
+          "name": "Count",
+          "type": "AMAZON.NUMBER"
+        },
+        {
+          "name": "Type",
+          "type": "List_Of_Coins"
+        }
+      ]
+    },
+    {
+      "intent": "GetRollCount",
+      "slots": [
+        {
+          "name": "Type",
+          "type": "List_Of_Coins"
+        }
+      ]
+    },
+    {
+      "intent": "GetCoinCount",
+      "slots": [
+        {
+          "name": "Type",
+          "type": "List_Of_Coins"
+        }
+      ]
+    },
+    {
+      "intent": "AMAZON.HelpIntent"
+    },
+    {
+      "intent": "AMAZON.StopIntent"
+    },
+    {
+      "intent": "AMAZON.CancelIntent"
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+AddCoins Add {Count} {Type} to my jar
+RemoveCoins Remove {Count} {Type} from my jar
+RollCoins to Roll {Type}
+CashRolls to Cash All Rolls
+CashRolls to Cash All {Type}
+GetRollCount How Many Rolls do I have in my jar
+GetRollCount How Many {Type} Rolls do I have in my jar
+GetCoinCount How Many {Type} Coins do I have in my jar
+GetCoinCount How Many Coins do I have in my jar

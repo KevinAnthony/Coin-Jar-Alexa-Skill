@@ -1,0 +1,30 @@
+{
+  "name": "coin-jar-alexa-skill-node",
+  "version": "1.0.0",
+  "description": "Keeps Track of your coins in your jar",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "alexa",
+    "skill",
+    "coins"
+  ],
+  "author": "Kevin Anthony (kevin.s.anthony@gmail.com)",
+  "license": "MIT",
+  "dependencies": {
+    "alexa-sdk": "^1.0.8",
+    "google-auth-library": "^0.10.0",
+    "googleapis": "^18.0.0",
+    "intl": "^1.2.5"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KevinAnthony/Coin-Jar-Alexa-Skill.git"
+  },
+  "bugs": {
+    "url": "https://github.com/KevinAnthony/Coin-Jar-Alexa-Skill/issues"
+  },
+  "homepage": "https://github.com/KevinAnthony/Coin-Jar-Alexa-Skill#readme"
+}
