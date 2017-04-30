@@ -39,6 +39,7 @@ jspm_packages
 # Auth Secret
 client_secret.json
 
+#stupid VS nonsense
 /Coin-Jar-Alexa-Skill.sln
 /Coin-Jar-Alexa-Skill.njsproj
 /.vs/Coin-Jar-Alexa-Skill/v14
