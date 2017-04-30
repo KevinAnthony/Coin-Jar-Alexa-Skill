@@ -1,0 +1,11 @@
+{
+	"NoOAuthTokenError": "You must have a linked account to use this skill. Please use the alexa app to link your account.",
+	"GeneralConnectionError": "There was an issue reaching the skill",
+	"SheetTitle": "Coins",
+	"SheetCoinCount": "Count",
+	"SheetRolledCount": "Rolls To Cash",
+	"SheetCoinCValues": "Value",
+	"SheetCoinsToWrap": "Required Wraps",
+	"SheetTotalCoinValue": "Total Value",
+	"SheetTotalWrappedValue": "Total Rolled",
+}
